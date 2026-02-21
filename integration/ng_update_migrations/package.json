@@ -27,7 +27,7 @@
     "@angular/compiler-cli": "file:../../dist/packages-dist/compiler-cli",
     "@types/node": "file:../../node_modules/@types/node",
     "chalk": "2.4.2",
-    "diff": "4.0.1",
+    "diff": "4.0.4",
     "tinyglobby": "^0.2.12",
     "jasmine-core": "3.4.0",
     "jasmine-spec-reporter": "4.2.1",
