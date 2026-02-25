@@ -481,10 +481,10 @@
     which "^5.0.0"
     yaml "2.7.1"
 
-"@angular/ssr@20.0.0-next.5":
-  version "20.0.0-next.5"
-  resolved "https://registry.yarnpkg.com/@angular/ssr/-/ssr-20.0.0-next.5.tgz#cb4c6eae42ab59c917fc93597206df5084b3f5f8"
-  integrity sha512-jPC+cw7OptR+NJ/0Lc8+nov4fIS9ki+s6RhNv8cvRdU1QvJvDe63sLr3nLdHNNWEgmTkcGhVMawxpyyNBr/7mQ==
+"@angular/ssr@20.3.17":
+  version "20.3.17"
+  resolved "https://registry.yarnpkg.com/@angular/ssr/-/ssr-20.3.17.tgz#2f78fbf8d0cd1f860c6f0c5f1f8069c94c98b512"
+  integrity sha512-vvaoVyP4r5x6GDyY04duM/ArTG+/aliZNo/Awe6mjKiTweQyp/aVMrlyk5aiYNbbWhzzI5+oS68vZm2CIhd1SA==
   dependencies:
     tslib "^2.3.0"
 
@@ -5997,9 +5997,9 @@ basic-auth@^2.0.1, basic-auth@~2.0.1:
     safe-buffer "5.1.2"
 
 basic-ftp@^5.0.2:
-  version "5.0.5"
-  resolved "https://registry.yarnpkg.com/basic-ftp/-/basic-ftp-5.0.5.tgz#14a474f5fffecca1f4f406f1c26b18f800225ac0"
-  integrity sha512-4Bcg1P8xhUuqcii/S0Z9wiHIrQVPMermM1any+MX5GeGD7faD3/msQUDGLol9wOcz4/jbg/WJnGqoJF6LiBdtg==
+  version "5.2.0"
+  resolved "https://registry.yarnpkg.com/basic-ftp/-/basic-ftp-5.2.0.tgz#7c2dff63c918bde60e6bad1f2ff93dcf5137a40a"
+  integrity sha512-VoMINM2rqJwJgfdHq6RiUudKt2BV+FY5ZFezP/ypmwayk68+NzzAQy4XXLlqsGD4MCzq3DrmNFD/uUmBJuGoXw==
 
 batch@0.6.1:
   version "0.6.1"
