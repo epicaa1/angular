@@ -8329,9 +8329,9 @@ domhandler@^5.0.2, domhandler@^5.0.3:
   resolved "https://github.com/angular/domino.git#8f228f8862540c6ccd14f76b5a1d9bb5458618af"
 
 dompurify@^3.2.4:
-  version "3.2.4"
-  resolved "https://registry.yarnpkg.com/dompurify/-/dompurify-3.2.4.tgz#af5a5a11407524431456cf18836c55d13441cd8e"
-  integrity sha512-ysFSFEDVduQpyhzAob/kkuJjf5zWkZD8/A9ywSp1byueyuCfHamrCBa14/Oc2iiB0e51B+NpxSl5gmzn+Ms/mg==
+  version "3.3.3"
+  resolved "https://registry.yarnpkg.com/dompurify/-/dompurify-3.3.3.tgz#680cae8af3e61320ddf3666a3bc843f7b291b2b6"
+  integrity sha512-Oj6pzI2+RqBfFG+qOaOLbFXLQ90ARpcGG6UePL82bJLtdsa6CYJD7nmiU8MW9nQNOtCHV3lZ/Bzq1X0QYbBZCA==
   optionalDependencies:
     "@types/trusted-types" "^2.0.7"
 
@@ -9431,9 +9431,9 @@ flat@^5.0.2:
   integrity sha512-b6suED+5/3rTpUBdG1gupIl8MPFCAMA0QXwmljLhvCUKcUvdE4gWky9zpuGCcXHOsz4J9wPGNWq6OKpmIzz3hQ==
 
 flatted@^3.2.7:
-  version "3.3.3"
-  resolved "https://registry.yarnpkg.com/flatted/-/flatted-3.3.3.tgz#67c8fad95454a7c7abebf74bb78ee74a44023358"
-  integrity sha512-GX+ysw4PBCz0PzosHDepZGANEuFCMLrnRTiEy9McGjmkCQYwRq4A/X786G/fjM/+OjsWSU1ZrY5qyARZmO/uwg==
+  version "3.4.1"
+  resolved "https://registry.yarnpkg.com/flatted/-/flatted-3.4.1.tgz#84ccd9579e76e9cc0d246c11d8be0beb019143e6"
+  integrity sha512-IxfVbRFVlV8V/yRaGzk0UVIcsKKHMSfYw66T/u4nTwlWteQePsxe//LjudR1AMX4tZW3WFCh3Zqa/sjlqpbURQ==
 
 flushwritable@^1.0.0:
   version "1.0.0"
@@ -17498,10 +17498,10 @@ undici@^5.25.4:
   dependencies:
     "@fastify/busboy" "^2.0.0"
 
-undici@^6.15.0:
-  version "6.21.2"
-  resolved "https://registry.yarnpkg.com/undici/-/undici-6.21.2.tgz#49c5884e8f9039c65a89ee9018ef3c8e2f1f4928"
-  integrity sha512-uROZWze0R0itiAKVPsYhFov9LxrPMHLMEQFszeI2gCN6bnIIZ8twzBCJcN2LJrBBLfrP0t1FW0g+JmKVl8Vk1g==
+undici@^6.24.0:
+  version "6.24.0"
+  resolved "https://registry.yarnpkg.com/undici/-/undici-6.24.0.tgz#ad36b879b4882d14addc13dd641da7ed7ac7623a"
+  integrity sha512-lVLNosgqo5EkGqh5XUDhGfsMSoO8K0BAN0TyJLvwNRSl4xWGZlCVYsAIpa/OpA3TvmnM01GWcoKmc3ZWo5wKKA==
 
 unicode-canonical-property-names-ecmascript@^2.0.0:
   version "2.0.1"
